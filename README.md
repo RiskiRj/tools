@@ -50,7 +50,7 @@ $ npm install
 To run this program, just type:
 
 ```
-node mytools
+node tools
 ```
 
 And select one of the options provided.
